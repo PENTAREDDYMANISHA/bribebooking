@@ -3,7 +3,7 @@
 A single-page bridal photography booking website for **Bloom & Veil**, a boutique studio specialising in elegant wedding and bridal portrait sessions. Visitors can browse packages, view the gallery, and submit a booking enquiry — all from one beautifully styled page.
 
 ## Live Site
-[View live site](https://pentareddymanisha.github.io/bribebooking/)
+[View live site](https://pentareddymanisha.github.io/bridebooking/)
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
